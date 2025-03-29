@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Sarath 
+# 👋 Hi, I'm Sarath Valanukonda
 
-I’m a Performance Engineer helping global enterprises scale their applications with speed and reliability. I specialize in performance benchmarking, backend optimization, and building protocol converters like REST ↔ gRPC.
+Welcome to my GitHub profile — I’m glad you’re here!
+
+I'm passionate Software Engineer, solving real-world problems, and constantly learning along the way. This space is a reflection of my journey as a developer, showcasing the projects I’ve worked on and the technologies I love working with.
+
+Feel free to explore my repositories, check out my recent work, and connect if you’d like to collaborate!
+
+
 
 
 
